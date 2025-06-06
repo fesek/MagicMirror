@@ -1,0 +1,15 @@
+[submodule "modules/MMM-GoogleTrafficTimes"]
+	path = modules/MMM-GoogleTrafficTimes
+	url = https://github.com/Jacopo1891/MMM-GoogleTrafficTimes
+[submodule "modules/MMM-LocalTransport"]
+	path = modules/MMM-LocalTransport
+	url = https://github.com/CFenner/MMM-LocalTransport
+[submodule "modules/MMM-PublicTransit"]
+	path = modules/MMM-PublicTransit
+	url = https://github.com/thariq-shanavas/MMM-PublicTransit
+[submodule "modules/MMM-TFL-Status"]
+	path = modules/MMM-TFL-Status
+	url = https://github.com/emanuele-albini/MMM-TFL-Status
+[submodule "modules/MMM-Traffic"]
+	path = modules/MMM-Traffic
+	url = https://github.com/SamLewis0602/MMM-Traffic
